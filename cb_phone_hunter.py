@@ -141,7 +141,7 @@ def dato(k, v): print(f"  {C}  ▸ {D}{k}:{RS} {W}{B}{v}{RS}")
 # ══════════════════════════════════════════════════════════════════════════════
 # MÓDULO 1 — ANÁLISIS LOCAL (phonenumbers — 100% offline)
 # ══════════════════════════════════════════════════════════════════════════════
-def modulo_analisis(phone_raw):
+def modulo_analisis(phone_raw):+62 881-6774-620
     sep("ANÁLISIS DEL NÚMERO")
     try:
         try:
